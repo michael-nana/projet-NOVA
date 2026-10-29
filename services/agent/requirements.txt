@@ -1,0 +1,4 @@
+websockets>=13
+psutil>=6
+mss>=9
+python-dotenv>=1.0
