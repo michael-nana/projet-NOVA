@@ -1,4 +1,3 @@
-# NOVA
 
 Assistant IA qui pilote un PC Windows depuis un téléphone. Voir `docs/ARCHITECTURE_ET_SUIVI.md` et `docs/DESIGN_SYSTEM.md`.
 
@@ -36,3 +35,5 @@ python scripts\send.py "ouvre le bloc-notes"      # 3. un ordre
 ## Notes
 - Les outils s'appellent `apps_open`, `files_list`... (l'API Claude refuse les points dans les noms).
 - L'authentification actuelle (2 secrets partagés) sera remplacée par l'appairage + passkey (Phase 1, étape 4).
+# projet-NOVA
+agent IA qui permet d'effectuer des taches dans un ordinateur via un telephone protable
